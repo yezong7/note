@@ -1,0 +1,3 @@
+[submodule "note"]
+	path = note
+	url = git@github.com:yezong7/note.git
