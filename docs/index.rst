@@ -11,8 +11,11 @@
    :maxdepth: 2
    :caption: 目录
 
-   getting-started
-   notes
+   profile
+   english
+   algorithm
+   language
+   linux
 
 快速开始
 --------
