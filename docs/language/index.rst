@@ -9,3 +9,4 @@
 
    c
    cpp
+   rust
