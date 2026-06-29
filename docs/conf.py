@@ -18,8 +18,15 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 language = 'zh_CN'
 
 # -- Options for HTML output -------------------------------------------------
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'shibuya'
 html_static_path = ['_static']
+
+# Shibuya 主题配置
+html_theme_options = {
+    'accent_color': 'blue',
+    'github_repo': 'yezong7/note',
+    'globaltoc_expand_depth': 2,
+}
 
 # MyST-Parser 支持 Markdown
 source_suffix = {
