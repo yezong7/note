@@ -11,11 +11,11 @@
    :maxdepth: 2
    :caption: 目录
 
-   profile
-   english
-   algorithm
-   language
-   linux
+   profile/index
+   english/index
+   algorithm/index
+   language/index
+   linux/index
 
 快速开始
 --------

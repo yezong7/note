@@ -1,12 +1,7 @@
-英语
-====
-
-学习笔记与词汇积累。
-
 技术英语
---------
+========
 
-嵌入式开发常用术语：
+嵌入式开发常用术语。
 
 .. glossary::
 
@@ -31,9 +26,23 @@
    RS485
       Recommended Standard 485，差分信号通信标准
 
-日常积累
---------
+   PWM
+      Pulse Width Modulation，脉冲宽度调制
 
-.. note::
+   ADC
+      Analog-to-Digital Converter，模数转换器
 
-   持续更新中...
+   DMA
+      Direct Memory Access，直接内存访问
+
+   NVIC
+      Nested Vectored Interrupt Controller，嵌套向量中断控制器
+
+   RTOS
+      Real-Time Operating System，实时操作系统
+
+   JTAG
+      Joint Test Action Group，联合测试工作组（调试接口）
+
+   SWD
+      Serial Wire Debug，串行线调试
